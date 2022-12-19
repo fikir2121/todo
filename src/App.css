@@ -1,0 +1,22 @@
+.App {
+  background-color: antiquewhite;
+  text-align: center;
+}
+
+.container{
+  background: linear-gradient(to right bottom,#d47b1b);
+  width: 100%;
+}
+
+.header {
+  background-color: #970760;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
